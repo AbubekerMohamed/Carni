@@ -15,7 +15,8 @@ below are some screenshots:
   <th>SearchScreen</th>
  </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/44189905/210066379-26fc0a78-234c-42a6-88f3-4218a65ef80f.png" width="300" height="540"></td>
+    <!-- <td><img src="https://user-images.githubusercontent.com/44189905/210066379-26fc0a78-234c-42a6-88f3-4218a65ef80f.png" width="300" height="540"></td> -->
+    <td> <img src="./s1[1].png" width="300" height="540"></td>
     <td><img src="https://user-images.githubusercontent.com/44189905/210066636-069cb96b-77d3-4620-9230-9aa42ebf168e.png" width="300" height="540"></td>
     <td><img src="https://user-images.githubusercontent.com/44189905/210066687-ccc5109f-e2fa-4359-8987-1a2e193af2c7.png" width="300" height="540"></td>
   </tr>
