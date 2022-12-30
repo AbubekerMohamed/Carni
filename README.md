@@ -27,7 +27,7 @@ below are some screenshots:
   <tr>
      <td><img src="./s4[1].png" width="300" height="540"></td>
      <td><img src="./s5[1].png" width="300" height="540"></td>
-     <td><img src="./s61].png" width="300" height="540"></td>
+     <td><img src="./s6[1].png" width="300" height="540"></td>
   </tr>
 </table>
 
