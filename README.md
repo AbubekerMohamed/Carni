@@ -15,9 +15,9 @@ below are some screenshots:
   <th>SearchScreen</th>
  </tr>
   <tr>
-    <td> <img src="./s1[1].png" width="300" height="540"></td>
-    <td><img src="./s2[1].png" width="300" height="540"></td>
-    <td><img src="./s3[1].png" width="300" height="540"></td>
+    <td> <img src="./s1[1].png" width="350" height="540"></td>
+    <td><img src="./s2[1].png" width="350" height="540"></td>
+    <td><img src="./s3[1].png" width="350" height="540"></td>
   </tr>
   <tr>
     <th>SearchScreen2</th>
@@ -25,9 +25,9 @@ below are some screenshots:
       <th>ProfileScreen</th>
   </tr>
   <tr>
-     <td><img src="./s4[1].png" width="300" height="540"></td>
-     <td><img src="./s5[1].png" width="300" height="540"></td>
-     <td><img src="./s6[1].png" width="300" height="540"></td>
+     <td><img src="./s4[1].png" width="350" height="540"></td>
+     <td><img src="./s5[1].png" width="350" height="540"></td>
+     <td><img src="./s6[1].png" width="350" height="540"></td>
   </tr>
 </table>
 
