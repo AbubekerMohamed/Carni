@@ -5,7 +5,7 @@ A Flutter ticket app project to showcase best practices in UI design and code.
 ## Getting Started
 
 This project is a for demonstrating UI design for a Flutter application.
-
+## Give it a star if you like it.
 below are some screenshots:
 
 <table>
