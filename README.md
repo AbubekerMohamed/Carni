@@ -15,7 +15,7 @@ below are some screenshots:
   <th>SearchScreen</th>
  </tr>
   <tr>
-    <td> <img src="s2[1].png" width="350" height="540"></td>
+    <td> <img src="./s1[1].png" width="350" height="540"></td>
     <td><img src="./s2[1].png" width="350" height="540"></td>
     <td><img src="./s3[1].png" width="350" height="540"></td>
   </tr>
